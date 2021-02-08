@@ -1,5 +1,5 @@
 ---
-title: Deriving Variation E-M Algorithms on LDA
+title: Deriving Variational E-M Algorithms on Latent Dirichlet Allocation (LDA)
 subtitle:
 
 # Summary for listings and search engines
