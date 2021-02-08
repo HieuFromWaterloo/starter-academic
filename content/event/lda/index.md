@@ -1,5 +1,5 @@
 ---
-title: Training Latent Dirichlet Allocation with Variational E-M Algorithm
+title: Training Latent Dirichlet Allocation (LDA) with Variational E-M Algorithms
 
 event: RBC Data & Analytics Technical Discussion
 url_slides: slides/lda/LDA.pdf
