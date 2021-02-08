@@ -6,7 +6,7 @@ title: Hieu Q. Nguyen
 superuser: true
 
 # Role/position/tagline
-role: Statistician/Data Scientist
+role: Statistician - Data Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
