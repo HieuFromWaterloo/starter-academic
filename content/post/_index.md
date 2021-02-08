@@ -1,5 +1,6 @@
 ---
-title: Posts
+# Note that this is supposed to be Posts, not Projects
+title: Projects
 cms_exclude: true
 
 # View.
