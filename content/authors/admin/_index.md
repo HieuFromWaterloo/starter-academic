@@ -60,6 +60,6 @@ highlight_name: false
 
 My name is Hieu (pronounced as Hugh). I am from a beautiful country in South East Asia - Viet Nam. Currently, I work as an Data Scientist at Royal Bank of Canada, Data & Analytics (DNA) Group. My work and research focuses primarily on solving business problems using Natural Language Processing (NLP). I still have a lot to learn, improve and master.
 
-Over the past few years, I have worked on problems ranging from cybersecurity, fraud detection in financial transactions, multi-label text classification to equity/debt deals detection in north american capital markets.
+Over the past few years, I have built high performance machine learning models to solve problems ranging from cybersecurity, fraud detection in financial transactions, multi-label text classification to equity/debt deals detection in north american capital markets. Further more, courses taken during the last 2 semesters of my undergrad study were master level courses.
 
 I really enjoy solving problems using math, learning new things through reading books/online courses, travelling, playing sports (soccer, basketball, pool, chess).
