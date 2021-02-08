@@ -6,7 +6,7 @@ title: Hieu Q. Nguyen
 superuser: true
 
 # Role/position/tagline
-role: Statistician
+role: Statistician/Data Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,8 +18,8 @@ bio: I am just an ordinary kid with lots of curiosity
 
 # Interests to show in About widget
 interests:
-- Computational Inference
 - Statistical Learning
+- Computational Inference
 - Macroeconomics & Investing
 
 # Education to show in About widget
@@ -58,8 +58,8 @@ social:
 highlight_name: false
 ---
 
-Hi! My name is Hieu (pronounced as Hugh). I am from a beautiful country in South East Asia - Viet Nam. I am currently a Data Scientist at Royal Bank of Canada, Data & Analytics (DNA). My work and research focuses primarily on solving business problem using Natural Language Processing (NLP). I still have a lot to learn, improve and master.
+My name is Hieu (pronounced as Hugh). I am from a beautiful country in South East Asia - Viet Nam. Currently, I work as an Data Scientist at Royal Bank of Canada, Data & Analytics (DNA) Group. My work and research focuses primarily on solving business problems using Natural Language Processing (NLP). I still have a lot to learn, improve and master.
 
-In the past, I have worked on problems ranging from cybersecurity, fraud detection in financial transactions to equity/debt deals detection in north american capital markets.
+Over the past few years, I have worked on problems ranging from cybersecurity, fraud detection in financial transactions, multi-label text classification to equity/debt deals detection in north american capital markets.
 
-I enjoy solving problems using math, reading, travelling, playing sports (soccer, basketball, pool, chess).
+I really enjoy solving problems using math, learning new things through reading books/online courses, travelling, playing sports (soccer, basketball, pool, chess).
