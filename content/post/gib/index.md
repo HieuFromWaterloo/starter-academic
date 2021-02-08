@@ -1,6 +1,6 @@
 ---
-title: Deep Learning & NLP applications in Capital Markets
-summary: Detect Potential Financing Deals in Equity & Debt Capital Markets
+title: Detect Potential Financing Deals in Capital Markets
+summary: Deep Learning & NLP applications in Global Investment Banking
 
 # Date published
 date: "2019-08-30T00:00:00Z"
@@ -17,7 +17,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/u8DiM00gIR8)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CuxFucPVGmA)'
   focal_point: Right
 
 authors:

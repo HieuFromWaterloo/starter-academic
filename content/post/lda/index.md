@@ -33,9 +33,6 @@ authors:
 tags:
 - Mathematics
 - Statistical Learning
-
-categories:
-- Statistics
 ---
 
 ## Overview
