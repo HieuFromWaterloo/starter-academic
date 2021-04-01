@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: University of Waterloo 
+  - course: University of Waterloo
     institution: BMath, Statistics & Computer Science
     year: 2014 - 2019
 
@@ -45,11 +45,11 @@ social:
   link: 'mailto:hq2nguye@uwaterloo.ca'
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: media/cv.pdf 
+  link: media/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: ""
@@ -62,4 +62,4 @@ My name is Hieu (pronounced as Hugh). I am from a beautiful country in South Eas
 
 Over the past few years, I've experienced building high performance machine learning models to solve real world problems ranging from cybersecurity, fraud detection in financial transactions, multi-label text classification to equity/debt deals detection in north american capital markets.
 
-I really enjoy solving problems using math, learning new things through reading books/online courseware, travelling, playing sports (soccer, basketball, pool, chess).
+I really enjoy solving problems using math, learning new things through reading books/online courseware, travelling, playing sports (soccer, basketball, dota2).

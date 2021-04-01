@@ -25,13 +25,13 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 item:
-- certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/YYFTLH83ETCZ
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/X3PNHA2PDJU8
   date_end: ""
   date_start: "2021-03-01"
   description: ""
   organization: Coursera - Amazon Web Services
   organization_url: https://www.coursera.org
-  title: AWS Specialization
+  title: AWS Fundamentals
   url: ""
 - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/YYFTLH83ETCZ
   date_end: ""
