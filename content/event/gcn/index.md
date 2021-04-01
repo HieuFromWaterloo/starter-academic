@@ -1,16 +1,18 @@
 ---
 title: An Introduction to Graph Convolution Networks (GCN)
 
-event: RBC Global Cybersecurity Technical Discussion
+event: RBC Global Cybersecurity Research
 # event_url:
 
 location: Royal Bank of Canada
 address:
   street: 88 Queens Quay St W
   city: Toronto
-  region: 
+  region:
   postcode: 'M5J 0B6, ON'
   country: Canada
+
+Note: The materials using in this talk are not confidential
 
 # summary: An example talk using Wowchemy's Markdown slides feature.
 # abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."

@@ -1,18 +1,18 @@
 ---
 title: Training Latent Dirichlet Allocation (LDA) with Variational E-M Algorithms
 
-event: RBC Data & Analytics Technical Discussion
+event: RBC Data & Analytics Research
 url_slides: slides/lda/LDA.pdf
 
 location: Royal Bank of Canada
 address:
   street: 88 Queens Quay St W
   city: Toronto
-  region: 
+  region:
   postcode: 'M5J 0B6, ON'
   country: Canada
 
-# summary: An example talk using Wowchemy's Markdown slides feature.
+Note: The materials using in this talk are not confidential
 # abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
